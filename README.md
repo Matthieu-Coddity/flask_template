@@ -2,7 +2,7 @@
 
 **library used:**
 
- flask
+ - flask
  - flask-script
  - SQLAlchemy
  
